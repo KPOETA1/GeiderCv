@@ -1,27 +1,29 @@
 ---
+# Core
 layout: "../layouts/Layout.astro"
-name: Jane Doe
-image: "./avatar_hat.jpg"
-function: Designer
-address: London, UK
-email: ex@mail.com
-telephone: "1224435534"
+name: Geider Montaño
+image: "./foto.jpeg"
+function: frontend and backend developer
+address: Cali, Colombia
+email: geideran808087@gmail.com
+telephone: "3146578304"
+# HABILIDADES
 skills:
-- name: Adobe Photoshop
+- name: HTML, CSS y JavaScript
   percentage: 90
-- name: Photography
+- name: Python
   percentage: 80
-- name: Illustrator
+- name: valer monda
   percentage: 75
-- name: Media
+- name: Ser pana
   percentage: 50
+# IDIOMAS
 languages:
-- language: English
+- language: Español
   percentage: 100
-- language: Spanish
+- language: English
   percentage: 55
-- language: German
-  percentage: 25
+# EXPERIENCIA
 experiences:
 - experience: Front End Developer / w3schools.com
   period: Jan 2015
@@ -37,16 +39,15 @@ experiences:
 - experience: Graphic Designer / designsomething.com
   period: Jun 2010 - Mar 2012
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+# EDUCACION
 educations:
-- education: W3Schools.com
-  period: Forever
-  description: Web Development! All I need to know in one place
-- education: London Business School
+- education: Universidad del Valle
+  period: 2018 - 2024
+  description: Ingenieria de sistemas
+- education: I.E Alfredo Posada Correa
   period: 2013 - 2015
-  description: Master Degree
-- education: School of Coding
-  period: 2010 - 2013
-  description: Bachelor Degree
+  description: Bachiller tecnico en instalacones electricas
+# PROYECTOS
 social:
 - name: Facebook
   icon: fa-facebook-official

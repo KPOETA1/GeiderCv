@@ -1,7 +1,7 @@
 {
-  "siteLanguage": "en",
-  "siteTitle": "Jane Doe - CV",
-  "siteDescription": "<your site description>",
+  "siteLanguage": "en, es",
+  "siteTitle": "Geider Montaño - CV",
+  "siteDescription": "Desarrollador full stack apasionado por crear aplicaciones web",
   "siteKeywords": "HTML, CSS, JavaScript",
-  "siteAuthor": "John Doe"
+  "siteAuthor": "Geider Montaño"
 }
