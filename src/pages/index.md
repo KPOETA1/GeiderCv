@@ -25,12 +25,10 @@ languages:
   percentage: 55
 # EXPERIENCIA
 experiences:
-- experience: Front End Developer / w3schools.com
-  period: Jan 2015
+- experience: Front End Developer / EL Eden Project
+  period: Agosto 2023 - Dec 2023
   current: true
-  description: Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt
-    aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque
-    repellendus iure, iste.
+  description: Gesto
 - experience: Web Developer / something.com
   period: Mar 2012 - Dec 2014
   description: Consectetur adipisicing elit. Praesentium magnam consectetur vel in
